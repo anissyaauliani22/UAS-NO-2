@@ -68,3 +68,4 @@ int main (){
 
 # Output
 
+![image](https://user-images.githubusercontent.com/119275711/208942280-b6493da6-0714-4c62-8354-a1f07deba388.png)
